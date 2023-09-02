@@ -1,0 +1,26 @@
+
+.first{
+    display: inline-block;
+    width: 200px
+}
+body{
+    background-color: #9EBD6E;
+}
+#submit{
+    
+    margin-top: 10px;
+}
+.button_size{
+    height: 35px;
+    width: 350px;
+    border-radius: 12px;
+    background-color: #169873;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: white;
+}
+.login{
+    margin-top: 30vh ;
+    text-align: center;
+    
+}
